@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15383" started-at="2018-07-03T06:44:00Z" finished-at="2018-07-03T06:44:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15383" started-at="2018-07-03T06:44:00Z" finished-at="2018-07-03T06:44:16Z">
+      <class name="ToolsQA.com.bing.TestBing">
+        <test-method status="PASS" signature="open()[pri:0, instance:ToolsQA.com.bing.TestBing@c4c815]" name="open" is-config="true" duration-ms="13165" started-at="2018-07-03T12:14:00Z" finished-at="2018-07-03T12:14:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="TC_01verifyhomepage()[pri:0, instance:ToolsQA.com.bing.TestBing@c4c815]" name="TC_01verifyhomepage" duration-ms="2062" started-at="2018-07-03T12:14:13Z" finished-at="2018-07-03T12:14:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01verifyhomepage -->
+        <test-method status="PASS" signature="TC_02_verify_dropDownBOx()[pri:0, instance:ToolsQA.com.bing.TestBing@c4c815]" name="TC_02_verify_dropDownBOx" duration-ms="63" started-at="2018-07-03T12:14:15Z" finished-at="2018-07-03T12:14:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02_verify_dropDownBOx -->
+        <test-method status="PASS" signature="TC_03_verify_dropDownBox2()[pri:0, instance:ToolsQA.com.bing.TestBing@c4c815]" name="TC_03_verify_dropDownBox2" duration-ms="28" started-at="2018-07-03T12:14:15Z" finished-at="2018-07-03T12:14:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_03_verify_dropDownBox2 -->
+        <test-method status="PASS" signature="TC_04_verify_textBox()[pri:0, instance:ToolsQA.com.bing.TestBing@c4c815]" name="TC_04_verify_textBox" duration-ms="24" started-at="2018-07-03T12:14:16Z" finished-at="2018-07-03T12:14:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_04_verify_textBox -->
+        <test-method status="PASS" signature="TC_05_verify_translationBox()[pri:0, instance:ToolsQA.com.bing.TestBing@c4c815]" name="TC_05_verify_translationBox" duration-ms="21" started-at="2018-07-03T12:14:16Z" finished-at="2018-07-03T12:14:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_05_verify_translationBox -->
+      </class> <!-- ToolsQA.com.bing.TestBing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
